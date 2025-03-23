@@ -12,3 +12,4 @@ C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\refint\Statements.dll
 C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.pdb
 C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.genruntimeconfig.cache
 C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\ref\Statements.dll
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.sourcelink.json

@@ -331,6 +331,7 @@ static void DoWhileBreak(){
         i++;
     } while (i <= 10);
 }
+DoWhileBreak();
 Console.WriteLine("-------------------   Exercice  DoWhile ------------------");
 static void DoWhileExercice()
 {
