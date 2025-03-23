@@ -1,0 +1,14 @@
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.AssemblyInfoInputs.cache
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.AssemblyInfo.cs
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Desktop\Statements\bin\Debug\net9.0\Statements.exe
+C:\Users\hassa\Desktop\Statements\bin\Debug\net9.0\Statements.deps.json
+C:\Users\hassa\Desktop\Statements\bin\Debug\net9.0\Statements.runtimeconfig.json
+C:\Users\hassa\Desktop\Statements\bin\Debug\net9.0\Statements.dll
+C:\Users\hassa\Desktop\Statements\bin\Debug\net9.0\Statements.pdb
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.dll
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\refint\Statements.dll
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.pdb
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\Statements.genruntimeconfig.cache
+C:\Users\hassa\Desktop\Statements\obj\Debug\net9.0\ref\Statements.dll
